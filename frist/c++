@@ -1,1 +1,25 @@
-
+#include<iostream>
+#include<vector>
+#include<map>
+#include<set>
+#define ll long long int
+using namespace std;
+void sol()
+{
+     ll n;
+    cin>>n;
+    for(ll i=0;i<n;i++)
+    {
+        cout<<"Shakil"<<"\n";
+    }
+}
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        sol();
+    }
+  return 0;
+}
