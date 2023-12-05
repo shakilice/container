@@ -1,21 +1,26 @@
+//#include<bits/stdc++.h>
 #include<iostream>
 #include<vector>
 #include<map>
 #include<set>
+#include<math.h>
+#include<queue>
+#include<bitset>
+#define MD 1000000007
+#define yes cout<<"Yes"<<"\n"
+#define no cout<<"No"<<"\n"
 #define ll long long int
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);
 using namespace std;
 void sol()
 {
-     ll n;
-    cin>>n;
-    for(ll i=0;i<n;i++)
-    {
-        cout<<"Shakil"<<"\n";
-    }
+    
+    return;
 }
 int main()
 {
-    int t;
+    fastio
+    int t=1;
     cin>>t;
     while(t--)
     {
